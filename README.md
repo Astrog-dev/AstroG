@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Substitua URL_DA_LOGO pela URL da sua logo hospedada -->
-<img src="URL_DA_LOGO" width="180" alt="AstroG Logo"/>
-
-# AstroG
+# 🚀 AstroG
 
 ### Business Intelligence • Desenvolvimento Web • Soluções Digitais
 
