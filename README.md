@@ -1,6 +1,12 @@
 <div align="center">
 
-# 🚀 AstroG
+<img 
+  src="https://raw.githubusercontent.com/Astrog-dev/branding/main/AstroG_logo_512.png"
+  width="180"
+  alt="Logo da AstroG"
+/>
+
+# AstroG
 
 ### Business Intelligence • Desenvolvimento Web • Soluções Digitais
 
@@ -23,7 +29,7 @@
 
 # 👋 Bem-vindo à AstroG
 
-A AstroG é uma empresa especializada em desenvolver soluções tecnológicas para empresas que desejam crescer através da tecnologia, automação e inteligência de dados.
+A AstroG é uma empresa especializada em desenvolver soluções tecnológicas para empresas que desejam crescer por meio da tecnologia, automação e inteligência de dados.
 
 Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumentem a produtividade e apoiem a tomada de decisões estratégicas.
 
@@ -34,19 +40,19 @@ Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumente
 ## 📊 Business Intelligence
 
 - Dashboards em Power BI
-- Indicadores (KPIs)
+- Indicadores e KPIs
 - Business Analytics
-- Relatórios Gerenciais
-- Automação de Relatórios
-- Inteligência de Dados
+- Relatórios gerenciais
+- Automação de relatórios
+- Inteligência de dados
 
 ---
 
 ## 💻 Sistemas Personalizados
 
-- Sistemas Web
-- Painéis Administrativos
-- Controle de Estoque
+- Sistemas web
+- Painéis administrativos
+- Controle de estoque
 - CRM
 - ERP
 - Sistemas sob demanda
@@ -55,11 +61,11 @@ Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumente
 
 ## 🌐 Desenvolvimento Web
 
-- Sites Institucionais
-- Landing Pages
-- Portais Empresariais
+- Sites institucionais
+- Landing pages
+- Portais empresariais
 - E-commerce
-- Sistemas Responsivos
+- Aplicações responsivas
 
 ---
 
@@ -79,7 +85,7 @@ Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumente
 # ⚙️ Como Trabalhamos
 
 ```text
-1️⃣ Entendemos seu negócio
+1️⃣ Entendemos o seu negócio
         ↓
 2️⃣ Planejamos a solução
         ↓
@@ -109,12 +115,12 @@ Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumente
 Em breve você encontrará projetos desenvolvidos pela AstroG, incluindo:
 
 - 📊 Dashboards em Power BI
-- 🌐 Sites Corporativos
-- 💻 Sistemas Web
-- 📈 Business Intelligence
+- 🌐 Sites corporativos
+- 💻 Sistemas web
+- 📈 Projetos de Business Intelligence
 - ⚙️ Automações
-- 📱 Landing Pages
-- 🚀 Soluções Corporativas
+- 📱 Landing pages
+- 🚀 Soluções corporativas
 
 ---
 
@@ -136,8 +142,8 @@ Ser referência em Business Intelligence, Desenvolvimento Web e Soluções Digit
 - 💡 Inovação
 - 🏆 Excelência
 - 🔍 Transparência
-- 📈 Evolução Contínua
-- 🎯 Foco em Resultados
+- 📈 Evolução contínua
+- 🎯 Foco em resultados
 
 ---
 
