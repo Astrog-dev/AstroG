@@ -1,14 +1,23 @@
 <div align="center">
 
-# 🚀 AstroG
+<img src="URL_DA_LOGO" width="180"/>
+
+# AstroG
 
 ### Business Intelligence • Desenvolvimento Web • Soluções Digitais
 
-Transformando dados em decisões e ideias em soluções digitais.
+**Transformando dados em decisões e ideias em soluções digitais.**
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=AstroG-dev&color=D4AF37&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
@@ -16,34 +25,31 @@ Transformando dados em decisões e ideias em soluções digitais.
 
 # 👋 Bem-vindo à AstroG
 
-A AstroG é uma empresa especializada em transformar desafios em soluções tecnológicas.
+A AstroG é uma empresa especializada em desenvolver soluções tecnológicas para empresas que desejam crescer através da tecnologia, automação e inteligência de dados.
 
-Nosso foco é desenvolver ferramentas que ajudem empresas a crescer através de:
-
-- 📊 Dashboards em Power BI
-- 🌐 Sites modernos e responsivos
-- 💻 Sistemas personalizados
-- ⚙️ Automações de processos
-- 📈 Business Intelligence
+Nosso objetivo é criar ferramentas modernas que facilitem processos, aumentem a produtividade e apoiem a tomada de decisões estratégicas.
 
 ---
 
-# 🚀 Serviços
+# 🚀 Nossos Serviços
 
 ## 📊 Business Intelligence
 
 - Dashboards em Power BI
 - Indicadores (KPIs)
-- Análise de dados
-- Relatórios gerenciais
+- Relatórios Gerenciais
+- Análise de Dados
+- Business Analytics
+- Automação de Relatórios
 
 ---
 
 ## 🌐 Desenvolvimento Web
 
-- Landing Pages
 - Sites Institucionais
+- Landing Pages
 - Portais Empresariais
+- Sistemas Responsivos
 - E-commerce
 
 ---
@@ -54,15 +60,57 @@ Nosso foco é desenvolver ferramentas que ajudem empresas a crescer através de:
 - Painéis Administrativos
 - Controle de Estoque
 - CRM
-- ERP sob demanda
+- ERP
+- Sistemas sob demanda
 
 ---
 
-# 🛠️ Tecnologias
+# ⭐ Nossos Diferenciais
+
+- ✔ Soluções personalizadas
+- ✔ Desenvolvimento moderno
+- ✔ Código limpo e organizado
+- ✔ Dashboards inteligentes
+- ✔ Foco em performance
+- ✔ Interface intuitiva
+- ✔ Suporte contínuo
+- ✔ Tecnologia atualizada
+
+---
+
+# ⚙ Como Trabalhamos
+
+```text
+1️⃣ Entendemos o negócio
+
+        ↓
+
+2️⃣ Planejamos a solução
+
+        ↓
+
+3️⃣ Desenvolvemos
+
+        ↓
+
+4️⃣ Realizamos testes
+
+        ↓
+
+5️⃣ Implantamos
+
+        ↓
+
+6️⃣ Acompanhamos a evolução
+```
+
+---
+
+# 🛠 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode"/>
 
 </p>
 
@@ -70,35 +118,54 @@ Nosso foco é desenvolver ferramentas que ajudem empresas a crescer através de:
 
 # 📂 Projetos
 
-Em breve você encontrará aqui projetos desenvolvidos pela AstroG, incluindo:
+Em breve você encontrará projetos desenvolvidos pela AstroG como:
 
-- Business Intelligence
-- Dashboards
-- Sistemas Web
-- Landing Pages
-- Soluções Corporativas
-
----
-
-# 🌎 Nossa missão
-
-Criar soluções inteligentes que simplifiquem processos, automatizem tarefas e auxiliem empresas na tomada de decisões através da tecnologia.
+- 📊 Dashboards Power BI
+- 🌐 Sites Corporativos
+- 💻 Sistemas Web
+- 📈 Business Intelligence
+- ⚙️ Automações
+- 📱 Landing Pages
 
 ---
 
-# 📫 Contato
+# 🌎 Nossa Missão
+
+Transformar dados em decisões inteligentes e desenvolver soluções digitais que impulsionem o crescimento dos nossos clientes.
+
+---
+
+# 📈 Visão
+
+Ser referência em Business Intelligence, Desenvolvimento Web e Soluções Digitais, entregando projetos modernos, eficientes e de alto valor.
+
+---
+
+# 💙 Valores
+
+- Compromisso
+- Qualidade
+- Inovação
+- Transparência
+- Evolução contínua
+- Excelência técnica
+
+---
+
+# 📬 Contato
 
 📧 contato.astrog@gmail.com
 
-🌐 Em breve:
-https://astrog.com.br
+🌐 https://astrog.com.br *(Em breve)*
 
 ---
 
 <div align="center">
 
-### ⭐ Desenvolvido por AstroG
+## ⭐ Desenvolvido por AstroG
 
-Business Intelligence & Soluções Digitais
+### Business Intelligence • Desenvolvimento Web • Soluções Digitais
+
+**Transformando dados em decisões e ideias em soluções digitais.**
 
 </div>
