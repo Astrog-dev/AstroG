@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="URL_DA_LOGO" width="180"/>
+<!-- Substitua URL_DA_LOGO pela URL da sua logo hospedada -->
+<img src="URL_DA_LOGO" width="180" alt="AstroG Logo"/>
 
 # AstroG
 
@@ -27,7 +28,7 @@
 
 A AstroG é uma empresa especializada em desenvolver soluções tecnológicas para empresas que desejam crescer através da tecnologia, automação e inteligência de dados.
 
-Nosso objetivo é criar ferramentas modernas que facilitem processos, aumentem a produtividade e apoiem a tomada de decisões estratégicas.
+Nosso objetivo é criar ferramentas modernas que simplifiquem processos, aumentem a produtividade e apoiem a tomada de decisões estratégicas.
 
 ---
 
@@ -37,20 +38,10 @@ Nosso objetivo é criar ferramentas modernas que facilitem processos, aumentem a
 
 - Dashboards em Power BI
 - Indicadores (KPIs)
-- Relatórios Gerenciais
-- Análise de Dados
 - Business Analytics
+- Relatórios Gerenciais
 - Automação de Relatórios
-
----
-
-## 🌐 Desenvolvimento Web
-
-- Sites Institucionais
-- Landing Pages
-- Portais Empresariais
-- Sistemas Responsivos
-- E-commerce
+- Inteligência de Dados
 
 ---
 
@@ -65,48 +56,48 @@ Nosso objetivo é criar ferramentas modernas que facilitem processos, aumentem a
 
 ---
 
-# ⭐ Nossos Diferenciais
+## 🌐 Desenvolvimento Web
 
-- ✔ Soluções personalizadas
-- ✔ Desenvolvimento moderno
-- ✔ Código limpo e organizado
-- ✔ Dashboards inteligentes
-- ✔ Foco em performance
-- ✔ Interface intuitiva
-- ✔ Suporte contínuo
-- ✔ Tecnologia atualizada
+- Sites Institucionais
+- Landing Pages
+- Portais Empresariais
+- E-commerce
+- Sistemas Responsivos
 
 ---
 
-# ⚙ Como Trabalhamos
+# ⭐ Nossos Diferenciais
+
+- ✅ Soluções sob medida
+- ✅ Desenvolvimento moderno
+- ✅ Código limpo e organizado
+- ✅ Dashboards inteligentes
+- ✅ Foco em performance
+- ✅ Interface intuitiva
+- ✅ Tecnologia atualizada
+- ✅ Suporte contínuo
+
+---
+
+# ⚙️ Como Trabalhamos
 
 ```text
-1️⃣ Entendemos o negócio
-
+1️⃣ Entendemos seu negócio
         ↓
-
 2️⃣ Planejamos a solução
-
         ↓
-
 3️⃣ Desenvolvemos
-
         ↓
-
 4️⃣ Realizamos testes
-
         ↓
-
 5️⃣ Implantamos
-
         ↓
-
 6️⃣ Acompanhamos a evolução
 ```
 
 ---
 
-# 🛠 Tecnologias
+# 🛠️ Tecnologias
 
 <p align="center">
 
@@ -118,14 +109,15 @@ Nosso objetivo é criar ferramentas modernas que facilitem processos, aumentem a
 
 # 📂 Projetos
 
-Em breve você encontrará projetos desenvolvidos pela AstroG como:
+Em breve você encontrará projetos desenvolvidos pela AstroG, incluindo:
 
-- 📊 Dashboards Power BI
+- 📊 Dashboards em Power BI
 - 🌐 Sites Corporativos
 - 💻 Sistemas Web
 - 📈 Business Intelligence
 - ⚙️ Automações
 - 📱 Landing Pages
+- 🚀 Soluções Corporativas
 
 ---
 
@@ -135,28 +127,28 @@ Transformar dados em decisões inteligentes e desenvolver soluções digitais qu
 
 ---
 
-# 📈 Visão
+# 🎯 Nossa Visão
 
 Ser referência em Business Intelligence, Desenvolvimento Web e Soluções Digitais, entregando projetos modernos, eficientes e de alto valor.
 
 ---
 
-# 💙 Valores
+# 💙 Nossos Valores
 
-- Compromisso
-- Qualidade
-- Inovação
-- Transparência
-- Evolução contínua
-- Excelência técnica
+- 🤝 Compromisso
+- 💡 Inovação
+- 🏆 Excelência
+- 🔍 Transparência
+- 📈 Evolução Contínua
+- 🎯 Foco em Resultados
 
 ---
 
 # 📬 Contato
 
-📧 contato.astrog@gmail.com
+📧 **contato.astrog@gmail.com**
 
-🌐 https://astrog.com.br *(Em breve)*
+🌐 **https://astrog.com.br** *(Em breve)*
 
 ---
 
